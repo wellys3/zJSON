@@ -40,7 +40,7 @@ This project is supported by <a href="https://github.com/larshp/abapGit">ABAPGit
 - Changes v2.29 (2015-02-08)
   - GIT enhancement #16: wdr_simple_name_value_list not present on 7.00 systems
 
-]- Changes v2.28 (2015-01-23)
+- Changes v2.28 (2015-01-23)
   - GIT enhancement #10: New function: Clear data
   - GIT enhancement #12: Export + Import name/value pairs
   - GIT enhancement #13: Float as type P
